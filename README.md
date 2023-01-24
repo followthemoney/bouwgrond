@@ -80,6 +80,7 @@ De eerste keer duurt het even voordat alles is geïnstalleerd. Je kunt op localh
 Ben je klaar, typ dan 
 
 ```
+
 docker-compose down
 
 ```
@@ -87,6 +88,7 @@ docker-compose down
 om de docker containers uit te zetten. Ben je helemaal klaar typ dan
 
 ```
+
 docker-compose down -v
 
 ```
