@@ -97,7 +97,7 @@ om alle volumes te verwijderen.
 
 Zie de [Docker documentatie](https://docs.docker.com/) voor meer opties.
 
-Alle gebruikte lagen en de afgeleide statistieken zijn te vinden in een geodatabase in het [mapje data](arcgis/data/). In het [mapje notebooks](/notebooks/) vind je een Jupyter Notebook met suggesties voor verdere verwerking. Bij hergebruik gelieve de Vrije Universiteit, Follow the Money en Cobouw te noemen. 
+Alle gebruikte lagen en de afgeleide statistieken zijn te vinden in een geodatabase in het [mapje data](arcgis/). In het [mapje notebooks](/notebooks/) vind je een Jupyter Notebook met suggesties voor verdere verwerking. Bij hergebruik gelieve de Vrije Universiteit, Follow the Money en Cobouw te noemen. 
 
 
 
