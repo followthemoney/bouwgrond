@@ -1,9 +1,16 @@
 data/
 arcgis/**
+!arcgis/
+!arcgis/data/
 !arcgis/data/kaarten/
+!arcgis/data/kaarten/*
+!arcgis/bouwgrond/
 !arcgis/bouwgrond/bouwgrond.gdb/
+!arcgis/bouwgrond/bouwgrond.gdb/*
 docs/
 src/
+
+
 
 .DS_Store
 #.gitignore
