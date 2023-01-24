@@ -69,19 +69,26 @@ In dit overzicht zie je de scenario's:
 
 Zelf aan de slag? Dat is heel eenvoudig. Clone de repository. Zorg dat je [Docker](https://docs.docker.com/) hebt draaien. Typ het volgende in de root van je geclonede repository.
 
-```docker-compose up -d
+```
+
+docker-compose up -d
+
 ```
 
 De eerste keer duurt het even voordat alles is geïnstalleerd. Je kunt op localhost:8888 vervolgens Jupyter Lab opstarten. 
 
 Ben je klaar, typ dan 
 
-```docker-compose down
+```
+docker-compose down
+
 ```
 
 om de docker containers uit te zetten. Ben je helemaal klaar typ dan
 
-```docker-compose down -v
+```
+docker-compose down -v
+
 ```
 
 om alle volumes te verwijderen.
